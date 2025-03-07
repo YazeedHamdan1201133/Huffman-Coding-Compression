@@ -32,9 +32,6 @@ The project uses a Python script to:
 ## 📚 Theoretical Background
 Huffman coding is a **greedy algorithm** used for lossless data compression. It assigns variable-length binary codes to input symbols based on their frequency of occurrence.
 
-**Formula for Entropy:**
-\[ H = - \sum P(c) \log_2 P(c) \]
-Where \( P(c) \) is the probability of a character.
 
 Compression efficiency is evaluated by comparing:
 - **Fixed-length ASCII encoding** (8 bits per character)
