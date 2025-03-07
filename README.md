@@ -21,31 +21,6 @@ The project uses a Python script to:
 
 ---
 
-## 📂 File Structure
-- `huffman.py` - The main Python script implementing Huffman coding.
-- `input.docx` - Example input text file for compression.
-- `README.md` - Project documentation.
-
----
-
-## 🛠️ Installation & Usage
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-repo/huffman-coding.git
-   cd huffman-coding
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install docx2txt
-   ```
-
-3. **Run the script:**
-   ```bash
-   python huffman.py
-   ```
-
----
 
 ## 📊 Results
 - The Huffman coding achieved **~47.27% compression** compared to ASCII encoding.
